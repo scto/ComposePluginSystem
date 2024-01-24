@@ -5,8 +5,8 @@ Just because Jetpack Compose is easier and more suitable for handling plugin sys
 
 ## Usage
 
-1. Download the `ExamplePlugin.apk`, and put it into `$external/ComposePluginSystem/plugins/` directory.
-2. Install and launch the ComposePluginSystem (`app-debug.apk`) app, and press the CheckBox to load the compose view provided by the `ExamplePlugin`.
+1. Download the `ExamplePlugin.apk` in [Actions](../../actions), and put it into `$external/ComposePluginSystem/plugins/` directory.
+2. Install and launch the ComposePluginSystem (`app-debug.apk`) app in [Releases](../../releases), and press the CheckBox to load the compose view provided by the `ExamplePlugin`.
 
 ## Disclaimer
 
