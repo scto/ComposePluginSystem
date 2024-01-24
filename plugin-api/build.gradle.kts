@@ -42,4 +42,5 @@ android {
 dependencies {
     implementation(libs.bundles.core)
     implementation(libs.bundles.compose)
+    implementation(libs.bundles.test)
 }

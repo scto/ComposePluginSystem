@@ -41,7 +41,7 @@ android {
 dependencies {
     implementation(libs.bundles.core)
     implementation(libs.bundles.compose)
-    androidTestImplementation(libs.bundles.test)
+    implementation(libs.bundles.test)
 
     implementation(project(":plugin-api"))
 }
